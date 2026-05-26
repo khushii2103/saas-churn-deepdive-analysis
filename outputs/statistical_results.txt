@@ -1,0 +1,16 @@
+SaaS Churn Statistical Analysis Results
+======================================
+
+1. Chi-Square Test
+------------------
+Chi-Square Statistic: 1184.5966
+P-Value: 0.0000000000
+
+Interpretation: Contract type and churn are statistically related.
+
+2. Independent T-Test
+---------------------
+T-Statistic: 16.5367
+P-Value: 0.0000000000
+
+Interpretation: Monthly charges differ significantly between churned and retained customers.
